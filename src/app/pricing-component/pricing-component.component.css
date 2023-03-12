@@ -1,0 +1,11 @@
+.clip-circular {
+    clip-path: circle(50px);
+}
+
+ul li {
+    padding-left: 20px;
+    padding-bottom: 15px;
+    color: darkolivegreen;
+    text-align: center;
+    margin: 15px !important;
+}
